@@ -1,0 +1,32 @@
+{
+  "name": "api_users",
+  "version": "1.0.0",
+  "description": "Criando uma api com um crud.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/desktopcatimba/API-USERS.git"
+  },
+  "keywords": [
+    "node",
+    "express",
+    "api",
+    "users",
+    "json"
+  ],
+  "author": "Edvaldo Catimba",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/desktopcatimba/API-USERS/issues"
+  },
+  "homepage": "https://github.com/desktopcatimba/API-USERS#readme",
+  "dependencies": {
+    "express": "^5.1.0",
+    "handlebars": "^4.7.8",
+    "nodemon": "^3.1.10"
+  }
+}

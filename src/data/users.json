@@ -1,0 +1,14 @@
+[
+  {
+    "id": 1,
+    "nome": "Edvaldo Catimba",
+    "email": "edvaldodesktopcatimba@gmail.com",
+    "idade": 19
+  },
+  {
+    "id": 2,
+    "nome": "Maria Souza",
+    "email": "maria@hotmail.com",
+    "idade": 30
+  }
+]
